@@ -5,3 +5,4 @@ test test
 test Git push.
 Creating a new branch id quick.
 Creating a new branch is quick and simple.
+test merge.
