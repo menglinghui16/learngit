@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 test test
 test Git push.
 Creating a new branch id quick.
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
